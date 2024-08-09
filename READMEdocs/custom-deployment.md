@@ -3,7 +3,7 @@
 1. To Get Started, Fork this repository to your GitHub account:
 2. Clone the forked repo from your account using:
 
-   ```bash
+   ```bashs
      git clone https://github.com/<your-username>/home.git
    ```
 
@@ -35,7 +35,7 @@
 10. Congrats your site is up and running. To see it live, visit:
 
     ```https
-      https://<your-username>.github.io
+      https://ldav10.github.io
     ```
 
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
+Facing issues? Feel free to contact at louis.mt.davidson@gmail.com.
